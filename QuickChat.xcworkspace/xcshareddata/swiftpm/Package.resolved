@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Snail",
+        "repositoryURL": "https://github.com/UrbanCompass/Snail.git",
+        "state": {
+          "branch": null,
+          "revision": "4032cd5246fddb5977ff6e5c675dcb7e97fcfa86",
+          "version": "0.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
